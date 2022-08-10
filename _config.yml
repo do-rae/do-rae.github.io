@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "뚝딱뚝딱"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "seojin hwang"
-description              : "뚝딱뚝딱 "
+description              : "기록용"
 url                      : "https://do-rae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "seojin hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "person with the best cat in the world"
+  location         : "blue city"
   email            :
   links:
     - label: "Email"
