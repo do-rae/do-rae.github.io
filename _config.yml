@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "seojin hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "person with the best cat in the world"
+  bio              : #"person with the best cat in the world"
   location         : "blue city"
   email            :
   links:
